@@ -3,7 +3,7 @@
 ### 🔹 INNER JOIN
 
 - 테이블을 합쳐준다
-- 이거쓰면 where못쓰고 on쓰기가능
+- 이거쓰면 `where`못쓰고 `on`쓰기가능
 
 ```sql
 select 프로그램, 가격, 강사, 출신대학
