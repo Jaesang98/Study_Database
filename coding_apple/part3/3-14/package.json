@@ -1,0 +1,16 @@
+{
+  "name": "3-14",
+  "version": "1.0.0",
+  "description": "- 어떤 데이터가 들었는지, 어떤 테이블들이 서로 관련있나 파악하기 쉽다\r - lucid를 통해 만들어보자",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^3.12.0"
+  }
+}
